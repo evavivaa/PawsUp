@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PawsUp/static/css/main.c7f68555.chunk.css",
+    "main.js": "/PawsUp/static/js/main.e76aa569.chunk.js",
+    "main.js.map": "/PawsUp/static/js/main.e76aa569.chunk.js.map",
+    "runtime-main.js": "/PawsUp/static/js/runtime-main.f62f4e1f.js",
+    "runtime-main.js.map": "/PawsUp/static/js/runtime-main.f62f4e1f.js.map",
+    "static/js/2.4806ac6f.chunk.js": "/PawsUp/static/js/2.4806ac6f.chunk.js",
+    "static/js/2.4806ac6f.chunk.js.map": "/PawsUp/static/js/2.4806ac6f.chunk.js.map",
+    "index.html": "/PawsUp/index.html",
+    "static/css/main.c7f68555.chunk.css.map": "/PawsUp/static/css/main.c7f68555.chunk.css.map",
+    "static/js/2.4806ac6f.chunk.js.LICENSE.txt": "/PawsUp/static/js/2.4806ac6f.chunk.js.LICENSE.txt",
+    "static/media/grayPrint.81ec11bc.png": "/PawsUp/static/media/grayPrint.81ec11bc.png",
+    "static/media/hero.283446a5.png": "/PawsUp/static/media/hero.283446a5.png",
+    "static/media/logo.82c71ae5.svg": "/PawsUp/static/media/logo.82c71ae5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f62f4e1f.js",
+    "static/js/2.4806ac6f.chunk.js",
+    "static/css/main.c7f68555.chunk.css",
+    "static/js/main.e76aa569.chunk.js"
+  ]
+}
