@@ -23,6 +23,10 @@ export const SideBarContainer = styled.div`
         position: absolute;
         right: 1rem;
         top: 1rem;
+        :hover {
+            cursor: pointer;
+            color: ${colors.turquoise};
+        }
     }
     
 `
@@ -44,6 +48,7 @@ export const ListWrapper = styled.div`
         :hover {
             color: ${colors.turquoise};
             transition: all 0.5s;
+            cursor: pointer;
         }
     }
 `
