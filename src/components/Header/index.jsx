@@ -4,7 +4,7 @@ import Logo from '../../assets/logo.svg';
 import SearchIcon from '@material-ui/icons/Search';
 import MenuIcon from '@material-ui/icons/Menu';
 
-const Header = () => {
+const Header = (props) => {
     
     return (
         <HeaderContainer>
@@ -17,7 +17,7 @@ const Header = () => {
                 <a href="/"><SearchIcon /></a>
             </HeaderRightContainer>
             <HamburgerWrapper>
-                <MenuIcon id="hamburger" fontSize="large" />
+                <MenuIcon id="hamburger" fontSize="large" onClick={props.onClick} />
             </HamburgerWrapper>
         </HeaderContainer>
     )

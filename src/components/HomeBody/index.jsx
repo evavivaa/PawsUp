@@ -31,7 +31,7 @@ const HomeBody = () => {
                     </div>
                 </div>
             </TopPartContainer>
-            <GrayPrintImg src={grayPrint} alt="paw-print-img" />
+            {/* <GrayPrintImg src={grayPrint} alt="paw-print-img" /> */}
             <PersonalitiesContainer>
                 <h4>Dogs have these 5 major personality types</h4>
                 <CartoonWrapper>

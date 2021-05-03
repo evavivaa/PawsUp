@@ -66,7 +66,7 @@ export const TopPartContainer = styled.div`
 
     .doggieImg {
         width: 60%;
-        background: linear-gradient(#feeaec, #ffc7c8);
+        background: ${colors.pinkGradient};
         min-height: 60vh;
         border-radius: 0 0 0 150px;
         overflow: hidden;
@@ -170,7 +170,7 @@ export const Button = styled.button`
     font-size: 1.25rem;
     cursor: pointer;
     transition: 0.4s;
-
+    
     :hover {
         background: ${(props) => props.className === "findAMatchButton" ? colors.darkPink : colors.darkturquoise};
     }
@@ -185,7 +185,7 @@ export const GrayPrintImg = styled.img`
     margin-left: -100px;
     width: 350px;
     position: absolute;
-    top: 600px;
+    top: 65vh;
 
     @media (max-width: 775px) {
         position: static;
